@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0007-reverse-integer](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0007-reverse-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
