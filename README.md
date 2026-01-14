@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
