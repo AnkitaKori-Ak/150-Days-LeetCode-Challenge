@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0189-rotate-array) |
 | [0007-reverse-integer](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0013-roman-to-integer](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
