@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0013-roman-to-integer](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0383-ransom-note) |
+| [0242-valid-anagram](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0392-is-subsequence) |
 | [0125-valid-palindrome](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0383-ransom-note) |
+| [0242-valid-anagram](https://github.com/AnkitaKori-Ak/150-Days-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
